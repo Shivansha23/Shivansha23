@@ -3,7 +3,7 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="245" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-🔭 I’m currently working on my Skills & Problem-solving abilities.<br>🤝 I’m looking for help with Exploring Modern Technology.<br>🌱 I’m currently learning Back-End Frameworks & Java.<br>💬 Ask me about any Tech-related Stuff.<br>📫 How to reach me: shivanshapathak23@gmail.com<br>⚡ Fun fact: I love interior designing .<br>
+🔭 I’m currently working on my Skills & Problem-solving abilities.<br>🤝 I’m looking for help with Exploring Modern Technology.<br>🌱 I’m currently learning Back-End Frameworks & Python.<br>💬 Ask me about any Tech-related Stuff.<br>📫 How to reach me: shivanshapathak23@gmail.com<br>⚡ Fun fact: I love interior designing .<br>
 
 
 ## 🌐 Socials:
